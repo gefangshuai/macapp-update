@@ -1,4 +1,4 @@
-# mac-update
+# macapp-update
 
 > An electron-vue project
 
